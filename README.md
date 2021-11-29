@@ -1,2 +1,2 @@
 # alphaprep
-www.alphawebprepapp.pythonanywhere.com
+https://alphawebprepapp.pythonanywhere.com
